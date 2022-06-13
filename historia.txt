@@ -1,1 +1,2 @@
-Esta es La Historia de César aprendiendo git
+Esta es La Historia de César aprendiendo git 
+-Bueno es la segunda repeticion de la clase ya que no me la aprendí
