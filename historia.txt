@@ -1,3 +1,6 @@
 Esta es La Historia de César aprendiendo git 
 -Bueno es la segunda repeticion de la clase ya que no me la aprendí
 Ahora voy a ver los comandos un  poco mas avanzados en el siguiente video
+
+Luego de que Freddy nos sugiriera forzadamente a que nos devolvieramos a repasar y prectica
+vamos a hacer una rama llamada cabecera
