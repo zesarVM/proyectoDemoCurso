@@ -3,3 +3,4 @@ Esta es La Historia de César aprendiendo git
 hora voy a ver los comandos un  poco mas avanzados en el siguiente video
 Ya creé mi llave ssh ahora probaremos que los cambios funcionen apropiadamente 
 estoy teniendo problemas y siguiendo indicaciones
+Creo que ya entendì cual fue mi error confundi pull y push
