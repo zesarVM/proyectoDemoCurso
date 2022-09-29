@@ -1,7 +1,6 @@
-Esta es La Historia de César aprendiendo git 
+ es La Historia de César aprendiendo git 
 -Bueno es la segunda repeticion de la clase ya que no me la aprendí
 Ahora voy a ver los comandos un  poco mas avanzados en el siguiente video
-<<<<<<< HEAD
 Segunda vez que llevo el cusro para recordar
 Agrego un nuevo cambio al documento 
 
@@ -9,8 +8,3 @@ Es inteligente aunque a veces le cuesta
 
 Hoy es estudiande de PLatzi
 Agregue la Historia de su vida y obra maestra
-=======
-
-Luego de que Freddy nos sugiriera forzadamente a que nos devolvieramos a repasar y practicar
-vamos a hacer una rama llamada cabecera
->>>>>>> cabecera
